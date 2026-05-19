@@ -15,4 +15,8 @@ Este projeto atende diretamente à etapa final do KDD: **Interpretação e Avali
 * **Linguagem DAX** (Criação de cálculos e métricas avançadas)
 
 ## 📸 Demonstração
-*(Neste espaço do GitHub, você pode arrastar e soltar as imagens `image_1448f0.png` e `image_1448f2.png` para que elas fiquem visíveis direto no README, sem que a pessoa precise baixar o arquivo .pbix)*
+
+![Página 1 Analise de Frota IFS](Analise_Frota_IFS\src\img\analiseFrota_1.png)
+![Página 2 Analise de Frota IFS](Analise_Frota_IFS\src\img\analiseFrota_2.png)
+![Página 3 Analise de Frota IFS](Analise_Frota_IFS\src\img\analiseFrota_3.png)
+![Página 4 Analise de Frota IFS](Analise_Frota_IFS\src\img\analiseFrota_4.png)

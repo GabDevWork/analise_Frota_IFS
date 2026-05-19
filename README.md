@@ -16,7 +16,7 @@ Este projeto atende diretamente à etapa final do KDD: **Interpretação e Avali
 
 ## 📸 Demonstração
 
-![Página 1 Analise de Frota IFS](.\src\img\analiseFrota_1.png)
-![Página 2 Analise de Frota IFS](.\src\img\analiseFrota_2.png)
-![Página 3 Analise de Frota IFS](.\src\img\analiseFrota_3.png)
-![Página 4 Analise de Frota IFS](.\src\img\analiseFrota_4.png)
+![Página 1 Analise de Frota IFS](src/img/analiseFrota_1.png)
+![Página 2 Analise de Frota IFS](src/img/analiseFrota_2.png)
+![Página 3 Analise de Frota IFS](src/img/analiseFrota_3.png)
+![Página 4 Analise de Frota IFS](src/img/analiseFrota_4.png)
